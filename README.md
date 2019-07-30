@@ -9,3 +9,5 @@ Possible next steps:
 - ask for donations from users after transcription is done or when they want to exit pages
 - option for them to upload video to transcribe
 - input box at top of video page for them to enter new url
+  
+*Note that mlay1 was unable to push to Github through his account for most of the duration of this project so he worked on his teammates' computers. As such, commits under mlay1 do not represent his significant amount of coding and contribution to the project.
